@@ -1,0 +1,55 @@
+body{
+      padding: 4em 3em;
+      font-size: 15px;
+      color: hsl(234, 12%, 34%);
+      font-family: Poppins;
+    }
+h3{
+	font-weight: 600;
+	font-size: 15px;
+}
+p{
+	font-weight: 400;
+	color: hsl(229, 6%, 66%);
+}
+
+@media (max-width: 375px) {
+
+	.font200{
+		font-size: 1.45rem;
+	}
+	.font600{
+		font-size: 1.45rem;
+	}
+
+
+}
+
+.borderTopCyan{
+ 	border-top: 4px solid hsl(180, 62%, 55%);
+}
+.borderTopRed{
+	border-top: 4px solid hsl(0, 78%, 62%);
+
+}
+.borderTopOrange{
+ 	border-top: 4px solid hsl(34, 97%, 64%);
+}
+
+.borderTopBlue{
+	border-top: 4px solid hsl(212, 86%, 64%);
+}
+.attribution { 
+	font-size: 11px; text-align: center; 
+	}
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
+
+.font200{
+	font-weight: 200;
+}
+
+.font600{
+	font-weight: 600;
+}
